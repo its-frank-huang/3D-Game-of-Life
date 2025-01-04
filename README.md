@@ -1,7 +1,3 @@
-<style>
-body{ background: black}
-</style>
-
 # 3D Game of Life inplemented using Blender geometry nodes
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0bd73f68-7017-4826-8043-8173ed3949cb" />
